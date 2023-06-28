@@ -1,6 +1,6 @@
-# Presentation iTalk 2023
+# Presentation for DG ECHO
 
-iTalk lunchtime presentation given by Max De Wilde about the EU Knowledge Graph
+Demo to ECHO given by Anne Thollard & Max De Wilde about Kohesio and the EU Knowledge Graph
 
 ## To deploy
 
